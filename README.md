@@ -25,6 +25,3 @@ This tutorial will teach you how to build a simple CRUD API in Rust using the Wa
     - Get All Records
     - Delete a Record
 
-
-Read the entire article here: [https://codevoweb.com/build-a-simple-api-in-rust/](https://codevoweb.com/build-a-simple-api-in-rust/)
-
